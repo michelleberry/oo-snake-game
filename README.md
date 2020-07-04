@@ -20,6 +20,6 @@ Objective: become as long as possible without dieing
 Difficulties: hard and easy only differ in the speed that the snake moves at , hard snake moves faster than easy.
 Snake art: original
 
-## Author Info
-name: Michelle Berry
-contact: mberry05@uoguelph.ca
+#### Author Info
+- name: Michelle Berry
+- contact: mberry05@uoguelph.ca
