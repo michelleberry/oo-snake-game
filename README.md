@@ -1,5 +1,5 @@
 # oo-snake-game
-simple object-oriented snake game made in processing, because i like it best for graphics at the moment. (Java version of processing)
+simple object-oriented snake game made in processing (Java version of processing)
 
 ## Running the Game:
 
