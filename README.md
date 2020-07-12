@@ -1,4 +1,4 @@
-# oo-snake-game
+# oop-snake-game
 simple object-oriented snake game made in processing (Java version of processing)
 
 ## Running the Game:
